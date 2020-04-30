@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: heroblock
-    title: Hello, brother / bhā'i / ভাই !
+    title: Hello, brother, bhā'i, ভাই !
     section_id: hero
     component: HeroBlock
     content: VisualAid is a volunteer project to enable better communication between
