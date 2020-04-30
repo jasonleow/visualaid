@@ -6,8 +6,8 @@ subtitle: >-
   and styles for your content.
 menus:
   <!-- main:
-    title:
-    weight:--> 
+    title: Style guide
+    weight: 0 --> 
 template: page
 ---
 
