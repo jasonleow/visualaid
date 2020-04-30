@@ -1,18 +1,34 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+title: About us
+subtitle: The volunteers who made this possible.
+img_path: ""
 menus:
   main:
     title: About
     weight: 4
 template: page
 ---
+This website was inspired by the work of Sudesna Roy Chowdhury's[website](https://sudesnaroychowdhury.wixsite.com/covid), a treasure trove of COVID-19-related translations for healthcare workers. We took that as a starting point of our project, did more research and prototyping to come up with VisualAid.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+\
+This spontaneous ground-up, volunteer-driven project is **not affiliated to any organization**.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Shout out to the volunteers for all the weekends and late nights:
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Shaina
 
-*Thank You for reading!*
+[Jason](https://jasonleow.carrd.co/)
+
+Michael
+
+Siti Zu
+
+Yun Zhen
+
+Amanda
+
+Yijing
+
+Natalie
+
+(translators)
