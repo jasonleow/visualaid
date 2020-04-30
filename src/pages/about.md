@@ -8,23 +8,39 @@ menus:
     weight: 4
 template: page
 ---
-This website was inspired by the work of Sudesna Roy Chowdhury's [website](https://sudesnaroychowdhury.wixsite.com/covid), a treasure trove of COVID-19-related translations for healthcare workers. We took that as a starting point of our project, did more field research and prototyping to come up with VisualAid.
+This project is an effort led by Jason and Shaina, who saw the need for better resources to support communication between healthcare professionals and patients, especially in the COVID-19 crisis. 
+
+
+
+We were inspired by the work of Sudesna Roy Chowdhury's [website](https://sudesnaroychowdhury.wixsite.com/covid), a treasure trove of COVID-19-related translations for healthcare workers. We took that as a starting point of our project, did more field research and prototyping to come up with VisualAid.
 
 \
 VisualAid is a volunteer-driven project. We are **not affiliated to any organization**. Shout out to all the volunteers for burning weekends and late nights:
 
-😁 [Shaina](https://sg.linkedin.com/in/shainatan-service-ux-design)
 
-👻 [Jason](https://jasonleow.carrd.co/)
 
-🖍 [Michael](https://www.behance.net/michaelhuyouren)
+✏️ Designers:
 
-🎨️ [Siti](http://sitizuraidah.carbonmade.com/)
+[Jason](https://jasonleow.carrd.co/)
 
-😁 [Yun Zhen](https://sg.linkedin.com/in/yun-zhen-choy-93a8837a)
+[Shaina](https://sg.linkedin.com/in/shainatan-service-ux-design)
 
-🙂 [Amanda](https://sg.linkedin.com/in/amandarielle)
+[Yun Zhen](https://sg.linkedin.com/in/yun-zhen-choy-93a8837a)
 
-😄 [Yijing](https://sg.linkedin.com/in/yijingchoy)
+[Amanda](https://sg.linkedin.com/in/amandarielle)
 
-💬 [Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group](https://www.facebook.com/sgtranslationcovid/)
+[Yijing](https://sg.linkedin.com/in/yijingchoy)
+
+
+
+🎨 Illustrators:
+
+[Michael](https://www.behance.net/michaelhuyouren)
+
+[Siti](http://sitizuraidah.carbonmade.com/)
+
+
+
+💬 Translators
+
+[Natalie, Persa and the awesome translators at Translation of Singapore COVID Updates Facebook group](https://www.facebook.com/sgtranslationcovid/)
