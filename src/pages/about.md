@@ -17,7 +17,7 @@ We were inspired by the work of Sudesna Roy Chowdhury's [website](https://sudesn
 \
 VisualAid is a volunteer-driven project. We are **not affiliated to any organization**. Shout out to all the volunteers for burning weekends and late nights:
 
-
+<br/>
 
 ✏️ Designers:
 
@@ -31,7 +31,7 @@ VisualAid is a volunteer-driven project. We are **not affiliated to any organiza
 
 [Yijing](https://sg.linkedin.com/in/yijingchoy)
 
-
+<br/>
 
 🎨 Illustrators:
 
@@ -39,8 +39,10 @@ VisualAid is a volunteer-driven project. We are **not affiliated to any organiza
 
 [Siti](http://sitizuraidah.carbonmade.com/)
 
-
+<br/>
 
 💬 Translators
 
-[Natalie, Persa and the awesome translators at Translation of Singapore COVID Updates Facebook group](https://www.facebook.com/sgtranslationcovid/)
+Persa
+
+[Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group](https://www.facebook.com/sgtranslationcovid/)
