@@ -13,18 +13,18 @@ This website was inspired by the work of Sudesna Roy Chowdhury's [website](https
 \
 VisualAid is a volunteer-driven project. We are **not affiliated to any organization**. Shout out to all the volunteers for burning weekends and late nights:
 
-[Shaina](https://sg.linkedin.com/in/shainatan-service-ux-design)
+* [Shaina](https://sg.linkedin.com/in/shainatan-service-ux-design)
 
-[Jason](https://jasonleow.carrd.co/)
+* [Jason](https://jasonleow.carrd.co/)
 
-[Michael](https://www.behance.net/michaelhuyouren)
+* [Michael](https://www.behance.net/michaelhuyouren)
 
-[Siti Zu](http://sitizuraidah.carbonmade.com/)
+* [Siti Zu](http://sitizuraidah.carbonmade.com/)
 
-[Yun Zhen](https://sg.linkedin.com/in/yun-zhen-choy-93a8837a)
+* [Yun Zhen](https://sg.linkedin.com/in/yun-zhen-choy-93a8837a)
 
-[Amanda](https://sg.linkedin.com/in/amandarielle)
+* [Amanda](https://sg.linkedin.com/in/amandarielle)
 
-[Yijing](https://sg.linkedin.com/in/yijingchoy)
+* [Yijing](https://sg.linkedin.com/in/yijingchoy)
 
-[Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group](https://www.facebook.com/sgtranslationcovid/)
+* [Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group](https://www.facebook.com/sgtranslationcovid/)
