@@ -1,10 +1,10 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
-layout_style: mosaic
+title: Gallery
+subtitle: All the illustrations can be found here.
+layout_style: tiles
 menus:
   main:
-    title: Portfolio
+    title: Gallery
     weight: 2
 template: portfolio
 ---
