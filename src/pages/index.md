@@ -12,7 +12,7 @@ sections:
   - view_all_text: View All
     num_projects_displayed: 6
     section_id: latest-projects
-    view_all_url: portfolio/index.html
+    view_all_url: gallery/index.html
     subtitle: See all the illustrations available.
     title: Visual aids
     type: portfolioblock
