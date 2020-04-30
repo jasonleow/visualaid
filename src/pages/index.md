@@ -50,11 +50,11 @@ sections:
     component: TestimonialsBlock
     subtitle: What people are saying about VisualAid
     testimonialslist:
-      - author: John Doe
+      - author: John Doe, senior nurse, NCID
         avatar: images/john_doe.jpg
         content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
           non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
+      - author: Jane Roe, nurse, Expo
         avatar: images/jane_roe.jpg
         content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
