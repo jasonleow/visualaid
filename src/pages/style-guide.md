@@ -7,7 +7,7 @@ subtitle: >-
 menus:
   main:
     title: Style Guide
-    weight: 3
+    weight: 
 template: page
 ---
 
