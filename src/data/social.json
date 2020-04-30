@@ -3,7 +3,7 @@
     {
       "title": "Facebook",
       "icon": "fa-facebook",
-      "url": "https://facebook.com/"
+      "url": "https://fb.me/VisualAidSG"
     },
     {
       "type": "instagram",
@@ -15,6 +15,11 @@
       "title": "Telegram",
       "icon": "fa-telegram",
       "url": "https://t.me/visualaid"
+    },
+    {
+      "title": "Messenger",
+      "icon": "fa-messenger",
+      "url": "https://m.me/VisualAidSG"
     }
   ]
 }
