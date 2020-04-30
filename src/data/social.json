@@ -6,20 +6,14 @@
       "url": "https://fb.me/VisualAidSG"
     },
     {
-      "type": "instagram",
-      "title": "Instagram",
-      "icon": "fa-instagram",
-      "url": "https://www.instagram.com/"
+      "title": "Messenger",
+      "icon": "fa-facebook-messenger",
+      "url": "https://m.me/VisualAidSG"
     },
     {
       "title": "Telegram",
       "icon": "fa-telegram",
       "url": "https://t.me/visualaid"
-    },
-    {
-      "title": "Messenger",
-      "icon": "fa-messenger",
-      "url": "https://m.me/VisualAidSG"
     }
   ]
 }
