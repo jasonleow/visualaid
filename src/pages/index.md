@@ -19,10 +19,10 @@ sections:
     layout_style: tiles
     component: PortfolioBlock
   - type: servicesblock
-    title: How to use
-    section_id: how-to-use
+    title: Where to use
+    section_id: where-to-use
     component: ServicesBlock
-    subtitle: Here's how you can use the illustrated poster and flash cards
+    subtitle: Here's where you can use the illustrated poster and flash cards
     serviceslist:
       - title: At screening & triage
         content: Use these visual aids to ask about symptoms, living environment, travel
