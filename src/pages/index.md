@@ -14,7 +14,7 @@ sections:
     section_id: latest-projects
     view_all_url: gallery/index.html
     subtitle: See all the illustrations available.
-    title: Visual aids
+    title: Visual Aid Tools
     type: portfolioblock
     layout_style: tiles
     component: PortfolioBlock
