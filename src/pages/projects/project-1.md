@@ -1,6 +1,6 @@
 ---
 title: Screening/Triage
-subtitle: Illustration for common questions asked during COVID-19 screening and triage.
+subtitle: Illustrations for common questions asked during COVID-19 screening and triage.
 date: 2020-04-30T16:00:00.000Z
 thumb_img_path: /images/screening-questions.png
 content_img_path: /images/screening-questions.png
