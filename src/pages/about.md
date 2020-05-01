@@ -18,27 +18,19 @@ VisualAid is a volunteer-driven project. We are **not affiliated to any organiza
 
 **✏️ Designers**[](https://sg.linkedin.com/in/shainatan-service-ux-design)
 
-[Yun Zhen](https://sg.linkedin.com/in/yun-zhen-choy-93a8837a)
-
-[Amanda](https://sg.linkedin.com/in/amandarielle)
-
-[Yijing](https://sg.linkedin.com/in/yijingchoy)
+[Yun Zhen](https://sg.linkedin.com/in/yun-zhen-choy-93a8837a), [Amanda](https://sg.linkedin.com/in/amandarielle), [Yijing](https://sg.linkedin.com/in/yijingchoy)
 
 <br/>
 
 **🎨 Illustrators**
 
-[Michael](https://www.behance.net/michaelhuyouren)
-
-[Siti](http://sitizuraidah.carbonmade.com/)
+[Michael](https://www.behance.net/michaelhuyouren), [Siti](http://sitizuraidah.carbonmade.com/)
 
 <br/>
 
 💬 **Translators**
 
-Persa
-
-[Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group](https://www.facebook.com/sgtranslationcovid/)
+Persa, [Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group](https://www.facebook.com/sgtranslationcovid/)
 
 <br/>
 
