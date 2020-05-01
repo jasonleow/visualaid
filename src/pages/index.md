@@ -35,30 +35,6 @@ sections:
           toiletries, clothes, snacks, games.
       - title: At clinics and other healthcare facilities
         content: For any other situations in other healthcare facilities.
-  - type: postsblock
-    title: Why VisualAid
-    section_id: latest-posts
-    component: PostsBlock
-    subtitle: Our research & thoughts behind the designs.
-    num_posts_displayed: 2
-    actions:
-      - label: View Blog
-        url: blog/index.html
-  - type: testimonialsblock
-    title: Testimonials
-    section_id: testimonials
-    component: TestimonialsBlock
-    subtitle: What people are saying about VisualAid
-    testimonialslist:
-      - author: John Doe, senior nurse, NCID
-        avatar: images/john_doe.jpg
-        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-          non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe, nurse, Expo
-        avatar: images/jane_roe.jpg
-        content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
   - type: contactblock
     title: Contact us
     section_id: contact
