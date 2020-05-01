@@ -1,10 +1,10 @@
 ---
-title: Gallery
+title: Visual aid tools
 subtitle: All the illustrations can be found here.
 layout_style: tiles
 menus:
   main:
-    title: Gallery
+    title: Tools
     weight: 2
 template: portfolio
 ---
