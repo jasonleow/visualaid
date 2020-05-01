@@ -30,7 +30,7 @@ VisualAid is a volunteer-driven project. We are **not affiliated to any organiza
 
 💬 **Translators**
 
-Persa, [Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group](https://www.facebook.com/sgtranslationcovid/)
+Persa, [Chiranjit, Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group](https://www.facebook.com/sgtranslationcovid/)
 
 <br/>
 
