@@ -14,7 +14,7 @@ Click here to download as powerpoint to pick arrange the questions that are rele
 
 <button name="button">Click me</button>
 
-<button onclick="location.href='http://www.google.com'" type="button">Download now</button>
+<button onclick="location.href='http://www.google.com'" type="button" class=""button>Download now</button>
 
 
 
