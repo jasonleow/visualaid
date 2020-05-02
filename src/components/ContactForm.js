@@ -25,7 +25,7 @@ export default class ContactForm extends React.Component {
               </p>
               <input type="hidden" name="form-name" value="contactForm" />
               <p className="form-row form-submit">
-                <button type="submit" className="button">Send Message</button>
+                <button type="submit" className="button">Send message</button>
               </p>
             </form>
         );
