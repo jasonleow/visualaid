@@ -2,4 +2,5 @@
 publish = "public"
 command = "./stackbit-build.sh"
 
-
+[[plugins]]
+package = "netlify-plugin-gatsby-cache"
