@@ -13,8 +13,9 @@ sections:
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: tools/index.html
-    subtitle: See all the illustrations available.
-    title: Visual Aid Tools
+    subtitle: We currently have 2 collections of illustrated translations - for
+      screening/triage, and for daily care/needs. All downloadable for free.
+    title: Visual aid tools
     type: portfolioblock
     layout_style: tiles
     component: PortfolioBlock
