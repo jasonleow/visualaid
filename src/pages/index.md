@@ -23,7 +23,7 @@ sections:
     title: Where to use
     section_id: where-to-use
     component: ServicesBlock
-    subtitle: Here's where you can use the illustrated poster and flash cards
+    subtitle: Here's where you can use the illustrated visual aids
     serviceslist:
       - title: At screening & triage
         content: Use these visual aids to ask about symptoms, living environment, travel
