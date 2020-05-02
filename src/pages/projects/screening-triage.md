@@ -3,19 +3,18 @@ title: Screening/Triage
 subtitle: Illustrations for common questions asked during COVID-19 screening and triage.
 date: 2020-04-30T16:00:00.000Z
 thumb_img_path: /images/screening-triage.png
-content_img_path: /images/screening-triage.png
+content_img_path: ""
 template: project
 ---
-Click here to download all images in this category. Download images.
+Click here to download all images in this category.
 
-Click here to download as powerpoint to pick arrange the questions that are relevant to your usage. Download powerpoint.
+<a class="button" href="https://google.com">Download images</a>
 
-[![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://google.com)
+Click here to download as Powerpoint file to mix and match the illustrated translations relevant to your usage.
 
-<button name="button">Click me</button>
+<a href="https://google.com" target="_blank"><button name="button">Download ppt</button></a>
 
 <button onclick="location.href='http://www.google.com'" type="button" class=""button>Download now</button>
-
 
 
 ![](/images/daily-care-needs.png)
