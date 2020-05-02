@@ -7,14 +7,13 @@ thumb_img_path: /images/screening-triage.png
 content_img_path: ""
 template: project
 ---
-Click here to download all images in this category.
+Download all images in this category as an image file. If you need to mix and match the illustrated translations relevant to your usage, download the Powerpoint file to select individual slides to print.
+
 
 <a class="button" href="https://google.com">Download images</a>
 
-Click here to download as Powerpoint file to mix and match the illustrated translations relevant to your usage.
-
 <a class="button" href="https://google.com">Download ppt</a>
 
-<table><thead><tr><th>Click here to download all images in this category.Click here to download all images in this category.</th><th>Click here to download as Powerpoint file to mix and match the illustrated translations relevant to your usage.</th></tr></thead><tbody><tr><td><a class="button" href="https://google.com">Download images</a></td><td><a class="button" href="https://google.com">Download ppt</a></td></tr></tbody></table>
+<!-- <table><thead><tr><th>Click here to download all images in this category.Click here to download all images in this category.</th><th>Click here to download as Powerpoint file to mix and match the illustrated translations relevant to your usage.</th></tr></thead><tbody><tr><td><a class="button" href="https://google.com">Download images</a></td><td><a class="button" href="https://google.com">Download ppt</a></td></tr></tbody></table> -->
 
 ![](/images/screening-triage.png)
