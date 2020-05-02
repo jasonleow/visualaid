@@ -3,8 +3,8 @@ title: Daily care/needs
 subtitle: Illustrations for common questions for daily care and needs when
   staying in a ward, or community isolation facility.
 date: 2020-04-30T16:00:00.000Z
-thumb_img_path: /images/daily-needs.png
-content_img_path: /images/daily-needs.png
+thumb_img_path: /images/daily-care-needs.png
+content_img_path: /images/daily-care-needs.png
 template: project
 ---
 Click here to download all images in this category. Download images.
