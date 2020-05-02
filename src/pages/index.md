@@ -35,7 +35,9 @@ sections:
         content: Use the illustrations for communicating daily needs and wants, like
           toiletries, clothes, snacks, games.
       - title: At clinics and other healthcare facilities
-        content: For any other situations in other healthcare facilities.
+        content: For any other situation in other healthcare facilities like GP clinics,
+          community care facilities, designated housing, medical posts,
+          purpose-built dorms, mobile FAST teams, etc.
   - type: contactblock
     title: Contact us
     section_id: contact
