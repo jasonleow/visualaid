@@ -17,4 +17,4 @@ Click here to download as Powerpoint file to mix and match the illustrated trans
 <button onclick="location.href='http://www.google.com'" type="button" class=""button>Download now</button>
 
 
-![](/images/daily-care-needs.png)
+![](/images/screening-triage.png)
