@@ -8,7 +8,7 @@ template: project
 ---
 Click here to download all images in this category.
 
-<a className="button" href="https://google.com">Download images</a>
+<a type="submit" class="button" href="https://google.com">Download images</a>
 
 type="submit" className="button"
 
