@@ -1,7 +1,8 @@
 ---
 title: Daily care/needs
 subtitle: Illustrated translations for daily care needs when staying in a ward,
-  or community isolation facility.
+  community isolation facility, community care facility for COVID-19 migrant
+  work patients.
 date: 2020-04-29T16:00:00.000Z
 thumb_img_path: /images/daily-care-needs.png
 content_img_path: ""
