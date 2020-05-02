@@ -1,5 +1,5 @@
 ---
-title: Daily care/needs
+title: Daily care needs
 subtitle: Illustrated translations for daily care needs when staying in a ward,
   community isolation facility, community care facility for COVID-19 migrant
   work patients.
