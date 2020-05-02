@@ -26,8 +26,10 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
         
         <React.Fragment>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165278484-1" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165278484-1"></script>
+        
+        </React.Fragment>
+        <React.Fragment>
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -35,6 +37,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
     
             gtag('config', 'UA-165278484-1');
         </script>
+    
         </React.Fragment>
     ]);
 
