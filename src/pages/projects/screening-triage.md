@@ -1,5 +1,5 @@
 ---
-title: Screening/Triage
+title: Screening / Triage
 subtitle: Illustrated translations for common questions asked during screening
   and triage for COVID-19.
 date: 2020-04-30T16:00:00.000Z
