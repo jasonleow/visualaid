@@ -31,7 +31,7 @@ export default class PortfolioBlock extends React.Component {
                           <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))} alt={_.get(post, 'frontmatter.title')} />
                         </div>
                         }
-                        {/* <span className="view-all">{_.get(this.props, 'section.view_all_text') || 'View All'}</span> */}
+                        <span className="view-all">{_.get(this.props, 'section.view_all_text') || 'View All'}</span>
                       </Link>
                        : 
                       <Link to={safePrefix(_.get(post, 'url'))} className="post-link">
