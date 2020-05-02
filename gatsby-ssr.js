@@ -30,8 +30,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
         
         <script>
             window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
+            function gtag(){dataLayer.push(arguments);}gtag('js', new Date());
     
             gtag('config', 'UA-165278484-1');
         </script>
