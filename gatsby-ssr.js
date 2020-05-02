@@ -26,7 +26,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
         
         <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165278484-1"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165278484-1" />
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
