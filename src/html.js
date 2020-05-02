@@ -6,24 +6,6 @@ export default function HTML(props) {
     <html {...props.htmlAttributes}>
       <head>
         {props.headComponents}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-             async src="https://www.googletagmanager.com/gtag/js?id=UA-165278484-1"
-           `,
-          }}
-        />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-             window.dataLayer = window.dataLayer || [];
-             function gtag(){dataLayer.push(arguments);}
-             gtag('js', new Date());
-
-             gtag('config', 'UA-165278484-1');
-            `,
-          }}
-      />
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
