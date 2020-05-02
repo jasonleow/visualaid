@@ -8,7 +8,9 @@ template: project
 ---
 Click here to download all images in this category.
 
-<a class="button" type="submit" href="https://google.com">Download images</a>
+<a className="button" href="https://google.com">Download images</a>
+
+type="submit" className="button"
 
 Click here to download as Powerpoint file to mix and match the illustrated translations relevant to your usage.
 
