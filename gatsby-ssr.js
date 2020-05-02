@@ -13,16 +13,16 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
         <React.Fragment>
         <title key="title">VisualAid</title>
         <meta name="title" content="VisualAid" />
-        <meta name="description" content="Visual aids to enable better communication between healthcare workers & migrant workers affected by COVID-19." />,
+        <meta name="description" content="Visual aids to enable better communication between healthcare workers & migrant workers affected by COVID-19." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://visualaid.sg" />
         <meta property="og:title" content="VisualAid" />
-        <meta property="og:description" content="Visual aids to enable better communication between healthcare workers & migrant workers affected by COVID-19." />,
+        <meta property="og:description" content="Visual aids to enable better communication between healthcare workers & migrant workers affected by COVID-19." />
         <meta property="og:image" content="https://visualaid.sg/opengraph_image.png" />
         <meta property="twitter:card" content="opengraph_image.png" />
         <meta property="twitter:url" content="https://visualaid.sg" />
         <meta property="twitter:title" content="VisualAid" />
-        <meta property="twitter:description" content="Visual aids to enable better communication between healthcare workers & migrant workers affected by COVID-19." />,
+        <meta property="twitter:description" content="Visual aids to enable better communication between healthcare workers & migrant workers affected by COVID-19." />
         <meta property="twitter:image" content="https://visualaid.sg/opengraph_image.png" />
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
         
