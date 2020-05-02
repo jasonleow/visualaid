@@ -15,6 +15,6 @@ Click here to download as Powerpoint file to mix and match the illustrated trans
 
 <a class="button" href="https://google.com">Download ppt</a>
 
-<table><caption>Table with thead, tfoot, and tbody</caption><thead><tr><th>Click here to download all images in this category.</th><th>Click here to download as Powerpoint file to mix and match the illustrated translations relevant to your usage.</th></tr></thead><tbody><tr><td><a class="button" href="https://google.com">Download images</a></td><td><a class="button" href="https://google.com">Download ppt</a></td></tr></tbody><tfoot><tr><td>Footer content 1</td><td>Footer content 2</td></tr></tfoot></table>
+<table><thead><tr><th>Click here to download all images in this category.Click here to download all images in this category.</th><th>Click here to download as Powerpoint file to mix and match the illustrated translations relevant to your usage.</th></tr></thead><tbody><tr><td><a class="button" href="https://google.com">Download images</a></td><td><a class="button" href="https://google.com">Download ppt</a></td></tr></tbody></table>
 
 ![](/images/screening-triage.png)
