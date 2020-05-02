@@ -25,6 +25,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
         <meta property="twitter:image" content="https://visualaid.sg/opengraph_image.png" />,
         <link rel="shortcut icon" type="image/png" href="/favicon.png" />
         
+        <React.Fragment>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165278484-1" />
         <script>
@@ -34,6 +35,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
     
             gtag('config', 'UA-165278484-1');
         </script>
+        </React.Fragment>
     ]);
 
     setPostBodyComponents([
