@@ -30,7 +30,7 @@ VisualAid is a volunteer-driven project. We are **not affiliated to any organiza
 
 🏥 **Clinicians**
 
-[Nat](https://www.linkedin.com/in/natliew/), [Pei Kuan](https://instagram.com/lil_mem0ries?igshid=6d1ayewmyip9)
+[Nat](https://www.linkedin.com/in/natliew/), [Pei Kuan](https://instagram.com/lil_mem0ries?igshid=6d1ayewmyip9), Melissa
 
 <br/>
 
