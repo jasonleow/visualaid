@@ -9,10 +9,10 @@ sections:
       healthcare workers & migrant workers affected by COVID-19. Use the
       illustrations as a visual aid to help you communicate what you mean,
       better.
-  - view_all_text: View all
+  - view_all_text: ""
     num_projects_displayed: 6
     section_id: latest-projects
-    view_all_url: /tools
+    view_all_url: "null"
     subtitle: We currently have 2 collections of illustrated translations - for
       screening/triage, and for daily care/needs. All downloadable for free.
     title: Visual aid tools
