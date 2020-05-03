@@ -8,7 +8,7 @@ menus:
     identifier: ressources
 template: page
 ---
-Below is a list of other organisations supporting the migrant worker community in Singapore. Please contact them if you would like to lend  help or if you know anyone in the community who might need their support:
+Below is a list of other organisations supporting the migrant worker community in Singapore. Please contact them if you would like to lend  help or if you know anyone in the community who might need their support.
 
 * <a href="https://www.facebook.com/SG.CMSC" target="_blank">COVID Migrant Support Coalition</a>
 * <a href="http://www.citizenadventures.com/" target="_blank">Geylang Adventures</a>
