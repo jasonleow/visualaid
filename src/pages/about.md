@@ -36,7 +36,7 @@ VisualAid is a volunteer-driven project. We are **not affiliated to any organiza
 
 **✏️ Designers**[](https://sg.linkedin.com/in/shainatan-service-ux-design)
 
-[Keith](https://instagram.com/keithwongz?igshid=1nygjaoa98l8o), [Zhi Liang](https://www.linkedin.com/in/czhiliang/), [Fang Ling](https://www.linkedin.com/in/kok-fangling/), [Yun Zhen](https://sg.linkedin.com/in/yun-zhen-choy-93a8837a), [Amanda](https://sg.linkedin.com/in/amandarielle), [Yijing](https://sg.linkedin.com/in/yijingchoy)
+[Keith](https://www.linkedin.com/in/keithwongz/), [Zhi Liang](https://www.linkedin.com/in/czhiliang/), [Fang Ling](https://www.linkedin.com/in/kok-fangling/), [Yun Zhen](https://sg.linkedin.com/in/yun-zhen-choy-93a8837a), [Amanda](https://sg.linkedin.com/in/amandarielle), [Yijing](https://sg.linkedin.com/in/yijingchoy)
 
 <br/>
 
