@@ -9,8 +9,7 @@ sections:
       healthcare workers & migrant workers affected by COVID-19. Use the
       illustrations as a visual aid to help you communicate what you mean,
       better.
-  - view_all_text: '<span class="view-all" style="text-shadow: 2px 2px
-      #FF0000;">View all</span>'
+  - view_all_text: View all
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: /tools
