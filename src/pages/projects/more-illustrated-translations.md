@@ -2,7 +2,7 @@
 title: More illustrated translations
 subtitle: We're brewing ideas for more illustrated translations for other groups
   of people, like the elderly!
-date: 2020-05-03T13:58:27.710Z
+date: 2020-04-26T13:58:27.710Z
 thumb_img_path: /images/photo-1525278070609-779c7adb7b71.jpeg
 content_img_path: /images/photo-1525278070609-779c7adb7b71.jpeg
 template: project
