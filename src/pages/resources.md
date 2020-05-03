@@ -10,14 +10,12 @@ template: page
 ---
 Please contact these organisations if you need help or want to help:
 
-* [COVID Migrant Support Coalition](https://www.sgmigrant.com/)
-* [Geylang Adventures](http://www.citizenadventures.com/)
-* [ItsRainingRaincoats](https://www.facebook.com/itsrainingraincoats/)
-* [Migrant x me](https://www.facebook.com/migrantxme/)
-* [Singapore Migrant Friends](https://www.facebook.com/singaporemigrantfriends/)
+* <a href="[](https://www.facebook.com/SG.CMSC)https://www.facebook.com/SG.CMSC" target="_blank">COVID Migrant Support Coalition</a>
+* <a href="http://www.citizenadventures.com/" target="_blank">Geylang Adventures</a>
+* <a href="https://www.facebook.com/itsrainingraincoats/" target="_blank">ItsRainingRaincoats</a>
+* <a href="https://www.facebook.com/migrantxme/" target="_blank">Migrant x me</a>
+* <a href="https://www.facebook.com/singaporemigrantfriends/" target="_blank">Singapore Migrant Friends</a>
 
+For urgent call for resources, message the <a href="http://t.me/CMSC_SG" target="_blank">CMSC Telegram group</a>.
 
-
-For urgent call for resources, message the [CMSC Telegram group](http://t.me/CMSC_SG).
-
-Ask for donations-in-kind from the [Majulah Belanja donation site](https://bit.ly/majulah-belanja).
+Ask for donations-in-kind from the <a href="https://bit.ly/majulah-belanja" target="_blank">Majulah Belanja donation site</a>.
