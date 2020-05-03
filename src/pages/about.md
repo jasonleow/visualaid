@@ -16,15 +16,27 @@ VisualAid is a volunteer-driven project. We are **not affiliated to any organiza
 
 <br/>
 
-**✏️ Designers**[](https://sg.linkedin.com/in/shainatan-service-ux-design)
-
-[Yun Zhen](https://sg.linkedin.com/in/yun-zhen-choy-93a8837a), [Amanda](https://sg.linkedin.com/in/amandarielle), [Yijing](https://sg.linkedin.com/in/yijingchoy)
-
-<br/>
-
 **🎨 Illustrators**
 
 [Michael](https://www.behance.net/michaelhuyouren), [Siti](http://sitizuraidah.carbonmade.com/)
+
+<br/>
+
+💻 **Developers** 
+
+[Han Quan](https://www.linkedin.com/in/han-quan-lim-0ab109178/), [Ren Jie](https://www.linkedin.com/in/ren-jie-teo-343480140/)
+
+<br/>
+
+🏥 **Clinicians**
+
+[Nat](https://www.linkedin.com/in/natliew/), [Pei Kuan](https://instagram.com/lil_mem0ries?igshid=6d1ayewmyip9)
+
+<br/>
+
+**✏️ Designers**[](https://sg.linkedin.com/in/shainatan-service-ux-design)
+
+[Keith](https://instagram.com/keithwongz?igshid=1nygjaoa98l8o), [Zhi Liang](https://www.linkedin.com/in/czhiliang/), [Fang Ling](https://www.linkedin.com/in/kok-fangling/), [Yun Zhen](https://sg.linkedin.com/in/yun-zhen-choy-93a8837a), [Amanda](https://sg.linkedin.com/in/amandarielle), [Yijing](https://sg.linkedin.com/in/yijingchoy)
 
 <br/>
 
