@@ -10,7 +10,7 @@ template: page
 ---
 Please contact these organisations if you need help or want to help:
 
-* <a href="[](https://www.facebook.com/SG.CMSC)https://www.facebook.com/SG.CMSC" target="_blank">COVID Migrant Support Coalition</a>
+* <a href="https://www.facebook.com/SG.CMSC" target="_blank">COVID Migrant Support Coalition</a>
 * <a href="http://www.citizenadventures.com/" target="_blank">Geylang Adventures</a>
 * <a href="https://www.facebook.com/itsrainingraincoats/" target="_blank">ItsRainingRaincoats</a>
 * <a href="https://www.facebook.com/migrantxme/" target="_blank">Migrant x me</a>
