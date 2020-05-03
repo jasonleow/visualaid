@@ -12,7 +12,7 @@ sections:
   - view_all_text: ""
     num_projects_displayed: 6
     section_id: latest-projects
-    view_all_url: "null"
+    view_all_url: ""
     subtitle: We currently have 2 collections of illustrated translations - for
       screening/triage, and for daily care/needs. All downloadable for free.
     title: Visual aid tools
