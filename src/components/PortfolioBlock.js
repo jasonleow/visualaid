@@ -24,7 +24,7 @@ export default class PortfolioBlock extends React.Component {
                     {
                     _.map(recent_projects, (post, post_idx) => (
                     <article key={post_idx} className="post project">
-                      /*{(post_idx === post_len - 1) ? 
+                      {(post_idx === post_len - 1) ? 
                        <Link to={_.get(this.props, 'section.view_all_url')} className="post-link">
                         {_.get(post, 'frontmatter.thumb_img_path') && 
                         <div className="post-thumbnail">
@@ -33,7 +33,7 @@ export default class PortfolioBlock extends React.Component {
                         }
                         <span className="view-all">{_.get(this.props, 'section.view_all_text') || 'View All'}</span>
                       </Link>
-                       :*/ 
+                       :
                       <Link to={safePrefix(_.get(post, 'url'))} className="post-link">
                         {_.get(post, 'frontmatter.thumb_img_path') && 
                         <div className="post-thumbnail">
