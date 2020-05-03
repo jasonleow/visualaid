@@ -6,6 +6,4 @@ menus:
     weight: 6
 template: contact
 ---
-Hi there! Please fill the contact form below if you have any questions or feedback. Or find us on Facebook or Telegram.
-
-<ul class="social-links"><li><a href="<https://fb.me/VisualAidSG>" target="_blank"<span class="fab fa-facebook" aria-hidden="true"></span><span class="screen-reader-text">Facebook</span></a></li><li><a href="<https://m.me/VisualAidSG>" target="_blank"><span class="fab fa-facebook-messenger" aria-hidden="true"></span><span class="screen-reader-text">Messenger</span></a></li><li><a href="<https://t.me/visualaid>" target="_blank"><span class="fab fa-telegram" aria-hidden="true"></span><span class="screen-reader-text">Telegram</span></a></li></ul>
+Hi there! Please fill the contact form below if you have any questions or feedback. Or find us on [Facebook](https://www.facebook.com/VisualAidSG) or [Telegram](https://t.me/visualaid).
