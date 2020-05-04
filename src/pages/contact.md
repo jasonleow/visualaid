@@ -12,4 +12,4 @@ Fill up the contact form below if you have any questions or feedback on how to m
 
 We're also working on expanding our collection of cards so if you have phrases or languages you'd like us to add, drop us a message below!
 
-Alternatively, you may contact us on [Facebook](https://www.facebook.com/VisualAidSG) or [Telegram](https://t.me/visualaid).
+Alternatively, you may contact us on <a href="https://www.facebook.com/VisualAidSG/" target="_blank">Facebook</a> or <a href="https://t.me/visualaid" target="_blank">Telegram</a>.
