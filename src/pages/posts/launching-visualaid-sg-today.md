@@ -4,11 +4,10 @@ subtitle: A bit of back story, and the way forward
 date: 2020-05-04T15:33:09.006Z
 thumb_img_path: ""
 content_img_path: ""
-excerpt: So Shaina and I made this thing called
-  [VisualAid.sg](https://visualaid.sg/), together with a bunch of designers,
-  illustrators and translators in Singapore. VisualAid is a resource site of
-  illustrated translations to help healthcare workers communicate better with
-  migrant workers affected by COVID-19.
+excerpt: So Shaina and I made this thing called VisualAid.sg, together with a
+  bunch of designers, illustrators and translators in Singapore. VisualAid is a
+  resource site of illustrated translations to help healthcare workers
+  communicate better with migrant workers affected by COVID-19.
 template: post
 ---
 So Shaina and I made this thing called [VisualAid.sg](https://visualaid.sg/), together with a bunch of designers, illustrators and translators in Singapore. VisualAid is a resource site of illustrated translations to help healthcare workers communicate better with migrant workers affected by COVID-19.
