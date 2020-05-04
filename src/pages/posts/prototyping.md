@@ -1,7 +1,7 @@
 ---
 title: Prototyping
 subtitle: Some early shots on our prototypes
-date: 2020-05-03T15:43:29.391Z
+date: 2020-05-01T15:43:29.391Z
 thumb_img_path: ""
 content_img_path: ""
 template: post
