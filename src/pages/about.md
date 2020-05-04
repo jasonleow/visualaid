@@ -42,7 +42,9 @@ VisualAid is a volunteer-driven project. We are **not affiliated to any organiza
 
 💬 **Translators**
 
-Dr Shreya Kar, Persa, [Chiranjit, Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group](https://www.facebook.com/sgtranslationcovid/)
+Dr Shreya Kar, Persa, [](https://www.facebook.com/sgtranslationcovid/)<a href="https://www.facebook.com/sgtranslationcovid/" target="_blank">Chiranjit, Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group</a>
+
+
 
 <br/>
 
