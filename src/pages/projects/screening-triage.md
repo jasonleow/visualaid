@@ -1,7 +1,7 @@
 ---
 title: Screening / Triage
-subtitle: Illustrated translations for common questions asked during screening
-  and triage for COVID-19.
+subtitle: Illustrated translations in Bengali for common questions asked during
+  screening and triage for COVID-19.
 date: 2020-04-30T16:00:00.000Z
 thumb_img_path: /images/visualaid_screening-questions_all.png
 content_img_path: ""
