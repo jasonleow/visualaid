@@ -24,7 +24,7 @@ VisualAid is a volunteer-driven project. We are **not affiliated to any organiza
 
 💻 **Developers** 
 
-[Han Quan](https://www.linkedin.com/in/han-quan-lim-0ab109178/), [Ren Jie](https://www.linkedin.com/in/ren-jie-teo-343480140/)
+[](https://www.linkedin.com/in/han-quan-lim-0ab109178/)<a href="https://www.linkedin.com/in/han-quan-lim-0ab109178/" target="_blank">Han Quan</a>, [](https://www.linkedin.com/in/ren-jie-teo-343480140/)<a href="https://www.linkedin.com/in/ren-jie-teo-343480140/" target="_blank">Ren Jie</a>
 
 <br/>
 
