@@ -18,7 +18,7 @@ VisualAid is a volunteer-driven project. We are **not affiliated to any organiza
 
 **🎨 Illustrators**
 
-[Michael](https://www.behance.net/michaelhuyouren), Siti Zuraidah
+<a href="https://www.behance.net/michaelhuyouren" target="_blank">Michael</a>, Siti Zuraidah
 
 <br/>
 
