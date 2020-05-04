@@ -1,9 +1,9 @@
 ---
-title: Launching VisualAid.sg today
+title: 🚀 Launching VisualAid.sg today
 subtitle: A bit of back story, and the way forward
 date: 2020-05-04T15:33:09.006Z
-thumb_img_path: /images/photo-1517976487492-5750f3195933.jpeg
-content_img_path: /images/photo-1517976487492-5750f3195933-copy.jpg
+thumb_img_path: ""
+content_img_path: ""
 template: post
 ---
 So I made a thing again, called [VisualAid.sg](https://visualaid.sg/), this time with my fantabulous co-conspirator Shaina Tan and a bunch of designers, illustrators and translators in Singapore to create illustrated translations to help healthcare workers communicate better with migrant workers affected by COVID-19.
