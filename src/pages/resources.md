@@ -19,3 +19,5 @@ Below is a list of other organisations supporting the migrant worker community i
 For urgent call for resources, message the <a href="http://t.me/CMSC_SG" target="_blank" rel="noopener">CMSC Telegram group</a>.
 
 Ask for donations-in-kind from the <a href="https://bit.ly/majulah-belanja" target="_blank" rel="noopener">Majulah Belanja donation site</a>.
+
+For detailed audio translations (for Bengali, Tamil, Hindi, Burmese, and many other languages) in healthcare settings, check out <a href="https://translatefor.sg" target="_blank" rel="noopener">TranslateFor.sg</a>.
