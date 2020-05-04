@@ -7,7 +7,7 @@ content_img_path: ""
 excerpt: So Shaina and I made this thing called VisualAid.sg, together with a
   bunch of designers, illustrators and translators in Singapore. VisualAid is a
   resource site of illustrated translations to help healthcare workers
-  communicate better with migrant workers affected by COVID-19.
+  communicate better with migrant workers affected by COVID-19...
 template: post
 ---
 So Shaina and I made this thing called [VisualAid.sg](https://visualaid.sg/), together with a bunch of designers, illustrators and translators in Singapore. VisualAid is a resource site of illustrated translations to help healthcare workers communicate better with migrant workers affected by COVID-19.
