@@ -44,10 +44,8 @@ VisualAid is a volunteer-driven project. We are **not affiliated to any organiza
 
 Dr Shreya Kar, Persa, [](https://www.facebook.com/sgtranslationcovid/)<a href="https://www.facebook.com/sgtranslationcovid/" target="_blank">Chiranjit, Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group</a>
 
-
-
 <br/>
 
 **💰 Donors**
 
-Gratitude to [Gayle](https://sg.linkedin.com/in/gaylegoh) for her kind donation to purchase the domain name.
+Gratitude to [](https://sg.linkedin.com/in/gaylegoh)<a href="https://www.linkedin.com/in/gaylegoh/" target="_blank">Gayle</a> for her kind donation to purchase the domain name.
