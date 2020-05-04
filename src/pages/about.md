@@ -10,7 +10,7 @@ template: page
 ---
 This project is an effort led by [Jason](https://jasonleow.carrd.co/) and [Shaina](https://sg.linkedin.com/in/shainatan-service-ux-design), who saw the need for better resources to support communication between healthcare professionals and patients, especially in the COVID-19 crisis. 
 
-We were inspired by the work of Sudesna Roy Chowdhury's [website](https://sudesnaroychowdhury.wixsite.com/covid), a treasure trove of COVID-19-related translations for healthcare workers. We took that as a starting point of our project, did more field research and prototyping to come up with VisualAid.
+We were inspired by the work of Sudesna Roy Chowdhury's <a href="https://sudesnaroychowdhury.wixsite.com/covid" target="_blank">website</a>, a treasure trove of COVID-19-related translations for healthcare workers. We took that as a starting point of our project and did more field research and prototyping to come up with VisualAid.
 
 VisualAid is a volunteer-driven project. We are **not affiliated to any organization**. Shout out to all the volunteers for burning weekends and late nights:
 
