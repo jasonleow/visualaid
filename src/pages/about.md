@@ -4,8 +4,9 @@ subtitle: The volunteers who made this possible.
 img_path: ""
 menus:
   main:
-    title: About
+    title: About us
     weight: 4
+    identifier: About
 template: page
 ---
 This project is an effort led by <a href="https://jasonleow.carrd.co/" target="_blank" rel="noopener">Jason</a>[](https://jasonleow.carrd.co/) and [](https://sg.linkedin.com/in/shainatan-service-ux-design)<a href="https://www.linkedin.com/in/shainatan-service-ux-design/" target="_blank" rel="noopener">Shaina</a>, who saw the need for better resources to support communication between healthcare professionals and patients, especially in the COVID-19 crisis.  
