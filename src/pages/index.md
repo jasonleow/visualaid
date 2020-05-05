@@ -46,7 +46,7 @@ sections:
     subtitle: A behind-the-scenes peek into our process, thoughts and future plans
     num_posts_displayed: 2
     actions:
-      - label: Read more
+      - label: More posts...
         url: /about-our-process
   - type: contactblock
     title: Contact us
