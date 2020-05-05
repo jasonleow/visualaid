@@ -43,8 +43,8 @@ sections:
     component: PostsBlock
     title: Our process
     section_id: process
-    subtitle: A peek into our process
-    num_posts_displayed: 1
+    subtitle: A behind-the-scenes peek into our process, thoughts and future plans
+    num_posts_displayed: 2
     actions:
       - label: Read more
         url: /about-our-process
