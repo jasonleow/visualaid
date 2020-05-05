@@ -15,4 +15,4 @@ This was during the strictest of strict period of Circuit Breaker. When no print
 
 Luckily, Shaina remembered an old lamination machine somewhere in her store room, and we got our prototype out to the nurses at NCID. Circuit Breaker or no, nothing ain't gonna stop us, now.
 
-![visualaid prototypes](/images/printedsheets_prototypes.jpg)
+![visualaid prototypes](/images/img_3183.jpg)
