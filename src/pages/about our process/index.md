@@ -1,8 +1,8 @@
 ---
 title: About our process
 menus:
-  <!-- main:
-    title: Blog
-    weight: 3 -->
+  main:
+    title: About our process
+    weight: 3
 template: blog
 ---
