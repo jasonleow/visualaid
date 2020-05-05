@@ -1,5 +1,5 @@
 ---
-title: 🚀 Launching VisualAid.sg today
+title: 🚀 Launched VisualAid.sg today!
 subtitle: A bit of back story, and the way forward
 date: 2020-05-04T15:33:09.006Z
 thumb_img_path: ""
