@@ -25,7 +25,9 @@ Aaaand we're launching the project today! We started on 17 April, launched on 4 
 
 But we do see this not as the final thing, but the first step. After all, we've only got translations for Bengali. There's still other translations we need to include, like Tamil, Hindi, Burmese, Chinese, etc. Already, there are requests coming in from healthcare professionals for illustrations and translations in other medical settings. Not forgetting that there's also other vulnerable groups—like say, the elderly living in nursing homes—who might need potentially benefit from this. Lots more field research to do, people to talk to, stakeholders to engage, ideas to brew.
 
-So we believe that there is a lot of potential for illustrated translations in healthcare settings, and the Bengali collection is just the beginning! We responded to the need of the times (i.e. COVID-19), but we foresee that this can go beyond our current situation, to reach other languages, dialects and groups of patients.
+So we believe that there is a lot of potential for illustrated translations in healthcare settings, and the Bengali collection is just the beginning! We responded to the need of the times (i.e. COVID-19), but we do foresee that this can go beyond our current situation, to reach other languages, dialects and groups of patients. 
+
+So if you are reading this and see an opportunity that these visual aids might also be useful for your patients and/or beneficiaries, please contact us! We'll love to talk.
 
 Onward, Singapore.
 
