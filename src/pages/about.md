@@ -5,7 +5,7 @@ img_path: ""
 menus:
   main:
     title: About us
-    weight: 4
+    weight: 3
     identifier: About
 template: page
 ---
