@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: About our process
 menus:
   <!-- main:
     title: Blog
