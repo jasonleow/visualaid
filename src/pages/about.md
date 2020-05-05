@@ -4,7 +4,7 @@ subtitle: The volunteers who made this possible.
 img_path: ""
 menus:
   main:
-    title: About us
+    title: About
     weight: 3
     identifier: About
 template: page
