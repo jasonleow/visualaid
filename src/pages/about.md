@@ -12,7 +12,7 @@ This project is an effort led by <a href="https://jasonleow.carrd.co/" target="_
 
 We were inspired by the work of Sudesna Roy Chowdhury's <a href="https://sudesnaroychowdhury.wixsite.com/covid" target="_blank" rel="noopener">website</a>, a treasure trove of COVID-19-related translations for healthcare workers. We took that as a starting point of our project and did more field research and prototyping to come up with VisualAid.
 
-VisualAid is a volunteer-driven project. We are **not affiliated to any organization**. Shout out to all the volunteers for burning weekends and late nights:
+VisualAid is a volunteer-driven project and our contributors come from a wide range of organisations and backgrounds. Shout out to all the volunteers for burning weekends and late nights:
 
 <br/>
 
