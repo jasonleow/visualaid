@@ -3,6 +3,7 @@ title: About our process
 menus:
   main:
     title: About our process
-    weight: 3
+    identifier: About
+    weight: 4
 template: blog
 ---
