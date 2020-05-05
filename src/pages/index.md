@@ -39,6 +39,15 @@ sections:
         content: For any other situation in other healthcare facilities like GP clinics,
           community care facilities, designated housing, medical posts,
           purpose-built dorms, mobile FAST teams, etc.
+  - type: postsblock
+    component: PostsBlock
+    title: Our process
+    section_id: process
+    subtitle: A peek into our process
+    num_posts_displayed: 1
+    actions:
+      - label: Read more
+        url: /about-our-process
   - type: contactblock
     title: Contact us
     section_id: contact
