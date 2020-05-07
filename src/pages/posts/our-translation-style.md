@@ -2,7 +2,8 @@
 title: Our translation style
 subtitle: Some of the considerations that go into our translation style
 date: 2020-05-07T08:48:15.810Z
-excerpt: "The kind of translations we go for: short, simple, clear, informal."
+excerpt: "The kind of translations we go for: short, simple, clear, informal.
+  And with good reasons, because we spoke to healthcare professionals..."
 template: post
 ---
 As part of our research process for developing the visual aids and illustrated translations, we spoke to many healthcare workers from various hospitals. One key message that kept coming back is how they need to work fast and efficiently due to the large numbers that they screen through daily. Getting the migrant workers to read long sentences and paragraphs of text also takes time. Some might find it a challenge due to literacy level, even if the text is in their own script font. 
