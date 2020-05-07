@@ -1,5 +1,5 @@
 ---
-title: Our translation style
+title: Thoughts on our translation style
 subtitle: Some of the considerations that go into our translation style
 date: 2020-05-07T08:48:15.810Z
 excerpt: "The kind of translations we go for: short, simple, clear, informal.
