@@ -17,13 +17,13 @@ So based on these learning points, the kind of translation style we go for is:
 
 For example: 
 
-❌"Do you have a cough?" \
-✅"Cough?" 
+❌ "Do you have a cough?" \
+✅ "Cough?" 
 
-❌"Keep your head in an upright position" \
-✅"Keep your head upright." 
+❌ "Keep your head in an upright position" \
+✅ "Keep your head upright." 
 
-❌"We are going to perform a throat and nasal swab on you. The instructions on what you need to do are below. Before we do that, we need to say that the swab may feel a bit uncomfortable but during the process, please do not move." \
-✅"Giving you swab now. For your throat. Then your nose. It is uncomfortable. Do not move."
+❌ "We are going to perform a throat and nasal swab on you. The instructions on what you need to do are below. Before we do that, we need to say that the swab may feel a bit uncomfortable but during the process, please do not move." \
+✅ "Giving you swab now. For your throat. Then your nose. It is uncomfortable. Do not move."
 
-These are guiding principles based on the best knowledge we have at the moment, and it may change depending on new information coming in, and also different context/environments. If you have any suggestions and feedback, we welcome it too! :)
+These are guiding principles based on the best knowledge we have at the moment, and it may change depending on new information coming in, and also different context/environments. If you have any suggestions and feedback, we welcome it too! [Contact us here.](https://visualaid.sg/contact/) :)
