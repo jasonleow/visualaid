@@ -8,6 +8,8 @@ thumb_img_path: /images/visualaid_daily-needs_all.png
 content_img_path: ""
 template: project
 ---
+Healthcare folks, you can print this out for your migrant worker patients who speak Bengali. This helps them communicate their needs to you, and hopefully leads to better quality of care.
+
 Download all the illustrations in this category as a pdf file. If you need to mix and match the illustrated translations relevant to your usage, download the Powerpoint file to select individual slides to print.
 
 <a class="button" href="https://bit.ly/visualaid-dailyneeds-pdf"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download pdf</a> &nbsp;&nbsp;&nbsp; <a class="button" href="https://bit.ly/visualaid-dailyneeds-ppt" target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download ppt</a>
