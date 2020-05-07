@@ -10,8 +10,8 @@ As part of our research process for developing the visual aids and illustrated t
 
 So based on these learning points, the kind of translation style we go for is:
 
-* **Brief/short.** Chop long sentences into shorter ones, in active voice. Short phrases will also work well with the illustrations.
-* **Simple.** Use simple words. Instead of "performing a swab on you", we use "giving you a swab".
+* **Brief/short.** Chop long sentences into shorter ones, in active voice. Short phrases will also work well with the illustrations, making the illustrated translations more modular and applicable to different settings.  
+* **Simple.** We use simple words, because simple aids comprehension. Instead of "performing a swab on you", say "giving you a swab".
 * **Clear.** Shorten without sacrificing clarity. For the nurses/doctors, being precise about certain terms is important.
 * **Informal.** These translations are used in non-formal settings, so there's no need for formalities in speech. We remove unnecessary adjectives, figures of speech, e.g. instead of "Before we do that, we need to say that...", just say the thing!
 
