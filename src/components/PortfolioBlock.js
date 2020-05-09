@@ -5,7 +5,7 @@ import {htmlToReact, getPages, Link, safePrefix} from '../utils';
 
 export default class PortfolioBlock extends React.Component {
     render() {
-       let display_projects = _.orderBy(getPages(this.props.pageContext.pages, '/projects'), 'frontmatter.date', 'desc');
+       let display_projects = _.orderBy(getPages(this.props.pageContext.pages, '/projects'), 'frontmatter.date', 'asc');
         let recent_projects = display_projects.slice(0, _.get(this.props, 'section.num_projects_displayed'));
         let post_len = _.size(recent_projects);
         return (
