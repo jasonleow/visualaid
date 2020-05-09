@@ -14,6 +14,11 @@
       "title": "Telegram",
       "icon": "fa-telegram",
       "url": "https://t.me/visualaid"
+    },
+    {
+      "icon": "fa-envelope-open-text",
+      "url": "http://eepurl.com/g2UlL5",
+      "title": "Email list"
     }
   ]
 }
