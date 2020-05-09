@@ -14,4 +14,6 @@ We're also working on expanding our collection of cards so if you have phrases o
 
 Alternatively, you may contact us on <a href="https://www.facebook.com/VisualAidSG/" target="_blank" rel="noopener">Facebook</a> or <a href="https://t.me/visualaid" target="_blank" rel="noopener">Telegram</a>.
 
+Sign up for our <a href="http://eepurl.com/g2UlL5" target="_blank" rel="noopener">email list</a> to get updates when we release new illustrations. 
+
 If you found the illustrations useful, please <a href="https://forms.gle/kzFoGcxJrv8Qc92r5" target="_blank" rel="noopener">leave us a review/testimonial here</a> so that we can share it with others on the website! Your review would help encourage other healthcare professionals to try it out too.
