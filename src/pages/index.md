@@ -13,7 +13,7 @@ sections:
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: /tools
-    subtitle: We currently have 2 collections of illustrated translations in Bengali
+    subtitle: We currently have 3 collections of illustrated translations in Bengali
       - for screening/triage, and for daily care/needs. All downloadable for
       free.
     title: Visual aid tools
