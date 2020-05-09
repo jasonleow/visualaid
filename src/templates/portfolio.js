@@ -6,7 +6,7 @@ import {getPages, Link, safePrefix} from '../utils';
 
 export default class Portfolio extends React.Component {
     render() {
-        let display_projects = _.orderBy(getPages(this.props.pageContext.pages, '/projects'), 'frontmatter.date', 'desc');
+        let display_projects = _.orderBy(getPages(this.props.pageContext.pages, '/projects'), 'frontmatter.date', 'asc');
         return (
             <Layout {...this.props}>
             <div className="outer">
