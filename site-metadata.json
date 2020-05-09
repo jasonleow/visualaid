@@ -8,17 +8,12 @@
     "logo_img": "/images/visual_aid_logo-03-transparent.png"
   },
   "footer": {
-    "content": "&copy; VisualAid. This work is licensed under a ",
+    "content": "&copy; VisualAid. <br/>This work is licensed under a ",
     "links": [
       {
         "new_window": true,
         "text": "Creative Commons Attribution-NonCommercial 4.0 International License.",
         "url": "http://creativecommons.org/licenses/by-nc/4.0/"
-      },
-      {
-        "text": "Made by @jasonleowsg",
-        "url": "https://twitter.com/jasonleowsg",
-        "new_window": true
       }
     ],
     "has_social": true
