@@ -1,7 +1,7 @@
 ---
 title: Mobile Rapid Triage Station
 subtitle: Illustrated translations in Bengali for the Mobile Rapid Triage Station.
-date: 2020-05-09T08:54:03.886Z
+date: 2020-05-07T08:54:03.886Z
 thumb_img_path: /images/visualaid_mobile-rapid-triage-station_a4-print.png
 template: project
 ---
