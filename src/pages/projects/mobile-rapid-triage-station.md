@@ -5,7 +5,7 @@ date: 2020-05-07T08:54:03.886Z
 thumb_img_path: /images/visualaid_mobile-rapid-triage-station_a4-print.png
 template: project
 ---
-Illustrated translations in Bengali for medical teams manning the Mobile Rapid Triage Station at the dormitories. We made this as a stand-alone poster in collaboration with CGH, but decided to share this here so that other Mobile Rapid Triage Station teams in other dormitories can benefit too. 
+Illustrated translations in Bengali for medical teams manning the Mobile Rapid Triage Station at the migrant worker dormitories. We made this as a stand-alone poster in collaboration with CGH, but decided to share it here so that Mobile Rapid Triage Station teams in other dormitories can benefit too. 
 
 Download the entire poster as a pdf file. 
 
