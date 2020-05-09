@@ -3,7 +3,7 @@ title: Daily care needs
 subtitle: Illustrated translations in Bengali for daily care needs when staying
   in a ward, community isolation facility, community care facility for COVID-19
   migrant work patients.
-date: 2020-04-29T16:00:00.000Z
+date: 2020-05-07T16:00:00.000Z
 thumb_img_path: /images/visualaid_daily-needs_all.png
 content_img_path: ""
 template: project
