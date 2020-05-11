@@ -12,7 +12,7 @@ Healthcare folks, you can print this out for your migrant worker patients who sp
 
 Download all the illustrations in this category as a pdf file. If you need to mix and match the illustrated translations relevant to your usage, download the Powerpoint file to select individual slides to print.
 
-<a class="button" href="https://bit.ly/visualaid-dailyneeds-pdf"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download pdf</a> &nbsp;&nbsp;&nbsp; <a class="button" href="https://bit.ly/visualaid-dailyneeds-ppt" target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download ppt</a>
+<a class="button" id="download-button" href="https://bit.ly/visualaid-dailyneeds-pdf"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download pdf</a> &nbsp;&nbsp;&nbsp; <a class="button" id="download-button" href="https://bit.ly/visualaid-dailyneeds-ppt" target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download ppt</a>
 
 <!-- <table><thead><tr><th>Download all the illustrations in this category as a pdf file.</th><th>Download as Powerpoint file to mix and match the illustrated translations relevant to your usage.</th></tr></thead><tbody><tr><td><a class="button" href="https://google.com">Download images</a></td><td><a class="button" href="https://google.com">Download ppt</a></td></tr></tbody></table> -->
 
