@@ -17,3 +17,9 @@ Download all the illustrations in this category as a pdf file. If you need to mi
 <!-- <table><thead><tr><th>Download all the illustrations in this category as a pdf file.</th><th>Download as Powerpoint file to mix and match the illustrated translations relevant to your usage.</th></tr></thead><tbody><tr><td><a class="button" href="https://google.com">Download images</a></td><td><a class="button" href="https://google.com">Download ppt</a></td></tr></tbody></table> -->
 
 ![](/images/visualaid_daily-needs_all.png)
+
+Layout by Siti Zuraidah and <a href="https://jasonleow.carrd.co/" target="_blank" rel="noopener">Jason</a>[](https://jasonleow.carrd.co/).
+
+Illustrations by Siti Zuraidah.
+
+Translation by <a href="https://adhikary.net/" target="_blank" rel="noopener">Ani</a> and <a href="https://www.facebook.com/sgtranslationcovid/" target="_blank" rel="noopener">Chiranjit</a>.
