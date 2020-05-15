@@ -11,3 +11,5 @@ These illustrated translations in Bengali are a set of instructions for patients
 <a class="button" id="download-button" href="https://bit.ly/covidswab-pdf"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download pdf</a>
 
 ![](/images/patient-s-instructions-for-covid-swabs-a4.png)
+
+Layout and illustrations by <a href="https://www.behance.net/michaelhuyouren" target="_blank" rel="noopener">Michael</a>.
