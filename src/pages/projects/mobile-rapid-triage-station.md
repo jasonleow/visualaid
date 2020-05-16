@@ -11,6 +11,8 @@ Illustrated translations in Bengali for medical teams manning Mobile Rapid Triag
 
 ![](/images/visualaid_mobile-rapid-triage-station_a4-print.png)
 
+<hr/>
+
 Layout and illustrations by Siti Zuraidah.
 
 Translation by <a href="https://adhikary.net/" target="_blank" rel="noopener">Ani</a>.
