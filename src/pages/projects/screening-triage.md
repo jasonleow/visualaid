@@ -15,6 +15,10 @@ Download all the illustrations in this category as an image file. If you need to
 
 ![](/images/visualaid_screening-questions_all.png)
 
+<hr/>
+
 Layout by <a href="https://www.linkedin.com/in/shainatan-service-ux-design/" target="_blank" rel="noopener">Shaina</a>.
 
 Illustrations by <a href="https://www.behance.net/michaelhuyouren" target="_blank" rel="noopener">Michael</a>.
+
+Translation by Persa.
