@@ -17,12 +17,6 @@ VisualAid is a volunteer-driven project and our contributors come from a wide ra
 
 <br/>
 
-**🎨 Illustrators**
-
-<a href="https://www.behance.net/michaelhuyouren" target="_blank" rel="noopener">Michael</a>, Siti Zuraidah
-
-<br/>
-
 💻 **Developers** 
 
 [](https://www.linkedin.com/in/han-quan-lim-0ab109178/)<a href="https://www.linkedin.com/in/han-quan-lim-0ab109178/" target="_blank" rel="noopener">Han Quan</a>, [](https://www.linkedin.com/in/ren-jie-teo-343480140/)<a href="https://www.linkedin.com/in/ren-jie-teo-343480140/" target="_blank" rel="noopener">Ren Jie</a>
@@ -35,9 +29,9 @@ VisualAid is a volunteer-driven project and our contributors come from a wide ra
 
 <br/>
 
-**✏️ Designers**[](https://sg.linkedin.com/in/shainatan-service-ux-design)
+**✏️ Design team lead by** <a href="https://www.behance.net/michaelhuyouren" target="_blank" rel="noopener">**Michael**</a>
 
-<a href="https://www.linkedin.com/in/keithwongz/" target="_blank" rel="noopener">Keith</a>, <a href="https://www.linkedin.com/in/czhiliang/" target="_blank" rel="noopener">Zhi Liang</a>, <a href="https://www.linkedin.com/in/kok-fangling/" target="_blank" rel="noopener">Fang Ling</a>, <a href="https://www.linkedin.com/in/yun-zhen-choy-93a8837a/?originalSubdomain=sg" target="_blank" rel="noopener">Yun Zhen</a>, <a href="https://www.linkedin.com/in/amandarielle/?originalSubdomain=sg" target="_blank" rel="noopener">Amanda</a>, <a href="https://www.linkedin.com/in/yijingchoy/?originalSubdomain=sg" target="_blank" rel="noopener">Yi Jing</a>
+<a href="https://launshae.com/" target="_blank" rel="noopener">Dot</a>, Siti Zuraidah, <a href="https://www.linkedin.com/in/keithwongz/" target="_blank" rel="noopener">Keith</a>, <a href="https://www.linkedin.com/in/czhiliang/" target="_blank" rel="noopener">Zhi Liang</a>, <a href="https://www.linkedin.com/in/kok-fangling/" target="_blank" rel="noopener">Fang Ling</a>, <a href="https://www.linkedin.com/in/yun-zhen-choy-93a8837a/?originalSubdomain=sg" target="_blank" rel="noopener">Yun Zhen</a>, <a href="https://www.linkedin.com/in/amandarielle/?originalSubdomain=sg" target="_blank" rel="noopener">Amanda</a>, <a href="https://www.linkedin.com/in/yijingchoy/?originalSubdomain=sg" target="_blank" rel="noopener">Yi Jing</a>
 
 <br/>
 
