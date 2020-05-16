@@ -18,6 +18,8 @@ Download all the illustrations in this category as a pdf file. If you need to mi
 
 ![](/images/visualaid_daily-needs_all.png)
 
+<hr/>
+
 Layout by Siti Zuraidah and <a href="https://jasonleow.carrd.co/" target="_blank" rel="noopener">Jason</a>[](https://jasonleow.carrd.co/).
 
 Illustrations by Siti Zuraidah.
