@@ -32,13 +32,13 @@ sections:
       - title: At the wards
         content: Use these visual aids to talk about ongoing symptoms, health markers
           and daily needs.
-      - title: At community isolation facilities like Expo
+      - title: At Community Care Facilities like at Expo
         content: Use the illustrations for communicating daily needs and wants, like
           toiletries, clothes, snacks, games.
       - title: At clinics and other healthcare facilities
         content: For any other situation in other healthcare facilities like GP clinics,
-          community care facilities, designated housing, medical posts,
-          purpose-built dorms, mobile FAST teams, etc.
+          community recovery facilities, swab isolation facilities, medical
+          posts, purpose-built dorms, mobile FAST teams, etc.
   - type: postsblock
     component: PostsBlock
     title: Our process
