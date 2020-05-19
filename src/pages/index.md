@@ -13,9 +13,9 @@ sections:
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: /tools
-    subtitle: We currently have 4 collections of illustrated translations in Bengali
-      - screening/triage, daily care/needs, mobile rapid triage station, and
-      COVID swabs. All downloadable for free.
+    subtitle: We currently have 4 collections of illustrated translations -
+      screening/triage, daily care/needs, mobile rapid triage station, and COVID
+      swabs. All downloadable for free.
     title: Visual aid tools
     type: portfolioblock
     layout_style: tiles
