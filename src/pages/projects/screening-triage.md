@@ -1,24 +1,20 @@
 ---
 title: Screening / Triage
-subtitle: Illustrated translations in Bengali for common questions asked during
-  screening and triage for COVID-19.
+subtitle: Illustrated translations in Bengali, Tamil, Thai, Burmese, Hindi for
+  common questions asked during screening and triage for COVID-19.
 date: 2020-05-03T16:00:00.000Z
-thumb_img_path: /images/visualaid_screening-questions_all.png
+thumb_img_path: /images/visualaid_screening-questions_ver2_all.png
 content_img_path: ""
 template: project
 ---
-Download all the illustrations in this category as an image file. If you need to mix and match the illustrated translations relevant to your usage, download the Powerpoint file to select individual slides to print.
+\[Update 19 May 2020:] Based on feedback from nurses and doctors for more languages, our latest version now includes **Bengali, Tamil, Thai, Burmese, Hindi**. 
 
-<a class="button" id="download-button" href="https://bit.ly/visualaid-screening-pdf" target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download pdf</a> &nbsp;&nbsp;&nbsp; <a class="button" id="download-button" href="https://bit.ly/visualaid-screening-ppt"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download ppt</a>
+Download all the illustrations in this category as a pdf file.
+
+<a class="button" id="download-button" href="https://bit.ly/visualaid-screening-v2-pdf" target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download pdf</a>
 
 <!-- <table><thead><tr><th>Download all the illustrations in this category as image files.</th><th>Download as Powerpoint file to mix and match the illustrated translations relevant to your usage.</th></tr></thead><tbody><tr><td><a class="button" href="https://google.com">Download images</a></td><td><a class="button" href="https://google.com">Download ppt</a></td></tr></tbody></table> -->
 
-![](/images/visualaid_screening-questions_all.png)
+![](/images/visualaid_screening-questions_ver2_all.png)
 
 <hr/>
-
-Layout by <a href="https://www.linkedin.com/in/shainatan-service-ux-design/" target="_blank" rel="noopener">Shaina</a>.
-
-Illustrations by <a href="https://www.behance.net/michaelhuyouren" target="_blank" rel="noopener">Michael</a>.
-
-Translation by Persa.
