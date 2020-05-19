@@ -37,7 +37,7 @@ VisualAid is a volunteer-driven project and our contributors come from a wide ra
 
 💬 **Translators**
 
-<a href="https://adhikary.net/" target="_blank" rel="noopener">Ani</a>, <a href="https://www.linkedin.com/in/shreyakar/" target="_blank" rel="noopener">Dr Shreya Kar</a>, Persa, [](https://www.facebook.com/sgtranslationcovid/)<a href="https://www.facebook.com/sgtranslationcovid/" target="_blank" rel="noopener">Chiranjit, Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group</a>
+Min Htoo, Eesha Shah, Vaish, Aish, Dharini, Mint, <a href="https://adhikary.net/" target="_blank" rel="noopener">Ani</a>, <a href="https://www.linkedin.com/in/shreyakar/" target="_blank" rel="noopener">Dr Shreya Kar</a>, Persa, [](https://www.facebook.com/sgtranslationcovid/)<a href="https://www.facebook.com/sgtranslationcovid/" target="_blank" rel="noopener">Chiranjit, Natalie and the awesome translators at Translation of Singapore COVID Updates Facebook group</a>
 
 <br/>
 
