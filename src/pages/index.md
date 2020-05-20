@@ -15,10 +15,7 @@ sections:
       <hr/>
 
 
-      Join our mailing list to get the latest visual aid tools when we release them!
-
-
-      <a class="button" id="download-button" href="http://eepurl.com/g2UlL5"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Join now</a>
+      Join our mailing list to get the latest of visual aid tools!<a class="button" id="download-button" href="http://eepurl.com/g2UlL5"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Join now</a>
   - view_all_text: View all
     num_projects_displayed: 6
     section_id: latest-projects
