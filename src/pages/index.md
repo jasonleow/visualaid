@@ -18,7 +18,7 @@ sections:
       Get notified via email when we release new visual aids!
 
 
-      <a class="button" id="download-button" href="http://eepurl.com/g2UlL5"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Get notified</a>
+      <a class="button" id="subscribe-button" href="http://eepurl.com/g2UlL5"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Get notified</a>
   - view_all_text: View all
     num_projects_displayed: 6
     section_id: latest-projects
