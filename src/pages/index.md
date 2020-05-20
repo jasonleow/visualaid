@@ -15,10 +15,10 @@ sections:
       <hr/>
 
 
-      Join our mailing list to get the latest of visual aid tools!
+      Get notified via email when we release new visual aids!
 
 
-      <a class="button" id="download-button" href="http://eepurl.com/g2UlL5"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Join now</a>
+      <a class="button" id="download-button" href="http://eepurl.com/g2UlL5"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Get notified</a>
   - view_all_text: View all
     num_projects_displayed: 6
     section_id: latest-projects
@@ -63,16 +63,6 @@ sections:
     section_id: contact
     component: ContactBlock
     subtitle: Contact us if you have suggested words to add to the illustrations!
-  - type: contentblock
-    component: ContentBlock
-    content: >-
-      Join our mailing list to get the latest of visual aid tools when we
-      release them!
-
-
-      <a class="button" id="download-button" href="http://eepurl.com/g2UlL5"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Join now</a>
-    title: Subscribe
-    section_id: Get notified via email when we release new visual aids!
 menus:
   main:
     title: Home
