@@ -5,10 +5,20 @@ sections:
     title: Hello brother, bhā'i, ভাই !
     section_id: hero
     component: HeroBlock
-    content: VisualAid is a volunteer project to enable better communication between
+    content: >-
+      VisualAid is a volunteer project to enable better communication between
       healthcare workers & migrant workers affected by COVID-19. Use the
       illustrations as a visual aid to help you communicate what you mean,
       better.
+
+
+      <hr/>
+
+
+      Join our mailing list to get the latest visual aid tools when we release them!
+
+
+      <a class="button" id="download-button" href="http://eepurl.com/g2UlL5"  target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Join now</a>
   - view_all_text: View all
     num_projects_displayed: 6
     section_id: latest-projects
