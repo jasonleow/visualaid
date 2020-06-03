@@ -8,7 +8,7 @@ template: project
 ---
 <meta property="og:title" content="Interior/Construction safety and hygiene instructions"><meta property="og:description" content="Illustrated translations in Chinese, Tamil, Bengali, Hindi, Burmese, Vietnamese for safety and hygiene practices in the construction industry."><meta property="og:image" content="https://visualaid.sg/images/interiors-construction-safety-hygiene.png"><meta property="og:url" content="https://visualaid.sg/projects/interior-construction-safety-and-hygiene-instructions/"><meta name="twitter:card" content="https://visualaid.sg/images/interiors-construction-safety-hygiene.png">
 
-With the end of our Circuit Breaker on 2 Jun, construction and infrastructure projects are set to resume gradually, with stringent measures in place. We worked with an interior design/construction company to come up with this set of instructional posters in Chinese, Tamil, Bengali, Hindi, Burmese, Vietnamese, to help migrant workers stay informed of the mandatory work site practices.  
+With the end of our Circuit Breaker on 2 Jun, construction and infrastructure projects are set to resume gradually, with stringent measures in place. We worked with an interior design/construction company <a href="https://www.buildbuilt.co/" target="_blank" rel="noopener">BuildBuilt.co</a> to come up with this set of instructional posters in Chinese, Tamil, Bengali, Hindi, Burmese, Vietnamese, to help migrant workers stay informed of the mandatory work site practices.  
 
 Download all the illustrations in this category as a pdf file.
 
