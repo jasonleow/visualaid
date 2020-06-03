@@ -7,11 +7,11 @@ thumb_img_path: /images/interiors-construction-safety-hygiene.png
 template: project
 ---
 <!-- Primary Meta Tags -->
+
 <title>Interior/Construction safety and hygiene instructions - VisualAid</title>
 <meta name="title" content="Interior/Construction safety and hygiene instructions - VisualAid">
-<meta name="description" content="Illustrated translations in Chinese, Tamil, Bengali, Hindi, Burmese, Vietnamese for safety and hygiene practices in the construction industry.">
+<meta name="description" content="Illustrated translations in Chinese, Tamil, Bengali, Hindi, Burmese, Vietnamese for safety and hygiene practices in the construction industry."><link rel="canonical" href="https://visualaid.sg/projects/interior-construction-safety-and-hygiene-instructions/" />
 
-<!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://visualaid.sg/projects/interior-construction-safety-and-hygiene-instructions/">
 <meta property="og:title" content="Interior/Construction safety and hygiene instructions - VisualAid">
@@ -19,6 +19,7 @@ template: project
 <meta property="og:image" content="https://visualaid.sg/images/open_graph_construction.png">
 
 <!-- Twitter -->
+
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://visualaid.sg/projects/interior-construction-safety-and-hygiene-instructions/">
 <meta property="twitter:title" content="Interior/Construction safety and hygiene instructions - VisualAid">
