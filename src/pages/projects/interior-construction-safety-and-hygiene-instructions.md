@@ -12,7 +12,7 @@ template: project
 <meta name="title" content="Interior/Construction safety and hygiene instructions - VisualAid">
 <meta name="description" content="Illustrated translations in Chinese, Tamil, Bengali, Hindi, Burmese, Vietnamese for safety and hygiene practices in the construction industry."><link rel="canonical" href="https://visualaid.sg/projects/interior-construction-safety-and-hygiene-instructions/" />
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:url" content="https://visualaid.sg/projects/interior-construction-safety-and-hygiene-instructions/">
 <meta property="og:title" content="Interior/Construction safety and hygiene instructions - VisualAid">
 <meta property="og:description" content="Illustrated translations in Chinese, Tamil, Bengali, Hindi, Burmese, Vietnamese for safety and hygiene practices in the construction industry.">
