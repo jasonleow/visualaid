@@ -26,9 +26,9 @@ sections:
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: /tools
-    subtitle: We currently have 4 collections of illustrated translations -
-      screening/triage, daily care/needs, mobile rapid triage station, and COVID
-      swabs. All downloadable for free.
+    subtitle: We currently have 5 collections of illustrated translations -
+      screening/triage, daily care/needs, mobile rapid triage station, COVID
+      swabs, and construction safety. All downloadable for free.
     title: Visual aid tools
     type: portfolioblock
     layout_style: tiles
@@ -48,10 +48,11 @@ sections:
       - title: At Community Care Facilities like at Expo
         content: Use the illustrations for communicating daily needs and wants, like
           toiletries, clothes, snacks, games.
-      - title: At clinics and other healthcare facilities
-        content: For any other situation in other healthcare facilities like GP clinics,
-          community recovery facilities, swab isolation facilities, medical
-          posts, purpose-built dorms, mobile FAST teams, etc.
+      - title: At clinics and other workplaces
+        content: For any other situation in other workplaces like at construction sites,
+          or healthcare facilities like GP clinics, community recovery
+          facilities, swab isolation facilities, medical posts, purpose-built
+          dorms, mobile FAST teams, etc.
   - type: postsblock
     component: PostsBlock
     title: Our process
