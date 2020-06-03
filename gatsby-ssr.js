@@ -13,7 +13,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
         <title key="title">VisualAid</title>,
         <meta name="title" content="VisualAid" />,
         <meta name="description" content="Visual aids to enable better communication between healthcare workers & migrant workers affected by COVID-19." />,
-        <meta property="og:type" content="website" />,
+        <meta property="og:type" content="article" />,
         <meta property="og:url" content="https://visualaid.sg" />,
         <meta property="og:title" content="VisualAid" />,
         <meta property="og:description" content="Visual aids to enable better communication between healthcare workers & migrant workers affected by COVID-19." />,
