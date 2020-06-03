@@ -6,7 +6,7 @@ date: 2020-06-03T03:55:33.940Z
 thumb_img_path: /images/interiors-construction-safety-hygiene.png
 template: project
 ---
-With the end of our Circuit Breaker on 2 Jun, construction and infrastructure projects are set to resume gradually, with stringent measures in place. We worked with a construction company to come up with this set of instructional posters in Chinese, Tamil, Bengali, Hindi, Burmese, Vietnamese, to help migrant workers stay informed of the mandatory work site practices.  
+With the end of our Circuit Breaker on 2 Jun, construction and infrastructure projects are set to resume gradually, with stringent measures in place. We worked with an interior design/construction company to come up with this set of instructional posters in Chinese, Tamil, Bengali, Hindi, Burmese, Vietnamese, to help migrant workers stay informed of the mandatory work site practices.  
 
 Download all the illustrations in this category as a pdf file.
 
