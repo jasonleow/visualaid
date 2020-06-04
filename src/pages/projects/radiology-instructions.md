@@ -14,7 +14,7 @@ template: project
 <meta property="og:url" content="https://visualaid.sg/projects/radiology-instructions/" />
 <meta property="og:title" content="Radiology instructions - VisualAid" />
 <meta property="og:description" content="Illustrated translations in Chinese, Tamil, Bengali, Thai, Burmese for instructions when taking an X-ray." />
-<meta property="og:image:url" content="https://visualaid.sg/images/opengraph_radiology.png" />
+<meta property="og:image" content="https://visualaid.sg/images/opengraph_radiology.png" />
 
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content="https://visualaid.sg/projects/radiology-instructions/" />
