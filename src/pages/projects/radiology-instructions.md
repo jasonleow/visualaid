@@ -29,3 +29,7 @@ template: project
 Download all the illustrations in this category as a pdf file.
 
 <a class="button" id="download-button" href="https://bit.ly/visualaid-radiologyinstructions-pdf" target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download pdf</a>
+
+![](/images/radiology.png)
+
+<hr/>
