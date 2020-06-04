@@ -16,7 +16,7 @@ template: project
 <meta property="og:url" content="https://visualaid.sg/projects/radiology-instructions/">
 <meta property="og:title" content="Radiology instructions - VisualAid">
 <meta property="og:description" content="Illustrated translations in Chinese, Tamil, Bengali, Thai, Burmese for instructions when taking an X-ray.">
-<meta property="og:image" content="https://visualaid.sg/images/opengraph_radiology">
+<meta property="og:image" content="https://visualaid.sg/images/opengraph_radiology.png">
 
 <!-- Twitter -->
 
@@ -24,7 +24,7 @@ template: project
 <meta property="twitter:url" content="https://visualaid.sg/projects/radiology-instructions/">
 <meta property="twitter:title" content="Radiology instructions - VisualAid">
 <meta property="twitter:description" content="Illustrated translations in Chinese, Tamil, Bengali, Thai, Burmese for instructions when taking an X-ray.">
-<meta property="twitter:image" content="https://visualaid.sg/images/opengraph_radiology">
+<meta property="twitter:image" content="https://visualaid.sg/images/opengraph_radiology.png">
 
 Download all the illustrations in this category as a pdf file.
 
