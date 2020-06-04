@@ -113,7 +113,9 @@
     overflow: hidden;
     padding-top: 60%;
     position: relative;
-    width: 100%;
+    width: 100%; 
+    border: 1px solid #e4e4e4;
+    border-radius: 5px;
 
     &:before {
       background: rgba(_palette(primary), .6);
