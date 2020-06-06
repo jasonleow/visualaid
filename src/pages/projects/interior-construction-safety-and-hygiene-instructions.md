@@ -1,5 +1,5 @@
 ---
-title: Interior/Construction safety and hygiene instructions
+title: Interior / Construction safety and hygiene instructions
 subtitle: Illustrated translations in Chinese, Tamil, Bengali, Hindi, Burmese,
   Vietnamese for safety and hygiene practices in the construction industry.
 date: 2020-06-03T03:55:33.940Z
