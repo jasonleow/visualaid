@@ -10,7 +10,7 @@ const safePrefix = require("./src/utils/safePrefix").default;
 exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
 
     setHeadComponents([
-        <link rel="shortcut icon" type="image/png" href="/visual_aid_LOGO-02-transparent.png" />
+        <link rel="shortcut icon" type="image/png" href="/favicon_visualaid.png" />
     ]);
 
     setPostBodyComponents([
