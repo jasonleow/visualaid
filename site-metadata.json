@@ -1,5 +1,8 @@
 {
   "title": "VisualAid",
+  "description": "Visual aids to enable better communication between healthcare workers & migrant workers affected by COVID-19.",
+  "url": "https://visualaid.sg",
+  "image": "https://visualaid.sg/visualaid_opengraphimage.png",
   "color_scheme": "light",
   "accent_color": "pink",
   "header": {
