@@ -15,6 +15,18 @@ export default class Body extends React.Component {
                     <meta charSet="utf-8"/>
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
+                    <meta name="title" content="VisualAid" />
+                    <meta name="description" content="Visual aids to enable better communication between healthcare workers & migrant workers affected by COVID-19." />
+                    <meta property="og:type" content="article" />
+                    <meta property="og:url" content="https://visualaid.sg/" />
+                    <meta property="og:title" content="VisualAid" />
+                    <meta property="og:description" content="Visual aids to enable better communication between healthcare workers & migrant workers affected by COVID-19." />
+                    <meta property="og:image" content="https://raw.githubusercontent.com/jasonleow/visualaid/master/static/visualaid_opengraphimage.png" />
+                    <meta property="twitter:card" content="summary_large_image" />
+                    <meta property="twitter:url" content="https://visualaid.sg/" />
+                    <meta property="twitter:title" content="VisualAid" />
+                    <meta property="twitter:description" content="Visual aids to enable better communication between healthcare workers & migrant workers affected by COVID-19." />
+                    <meta property="twitter:image" content="https://raw.githubusercontent.com/jasonleow/visualaid/master/static/visualaid_opengraphimage.png" />
                     <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i" rel="stylesheet"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
                 </Helmet>
