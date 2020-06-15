@@ -31,11 +31,10 @@ export default class Body extends React.Component {
                         <meta name="og:type" content="article" />
                         <meta name="twitter:card" content="summary_large_image" />
                         <meta name="twitter:title" content={_.get(this.props, 'pageContext.frontmatter.title')} />
-                        {
                         <meta
                           name="twitter:image"
                           content={`${_.get(this.props, 'pageContext.site.siteMetadata.siteUrl')}${this.props.location.pathname}twitter-card.jpg`}
-                          content={`${url}twitter-card.jpg`} 
+                          content={`${url}thumb_img_path`} 
                         />
                     </Helmet>
                     <div id="page" className={'site palette-' + _.get(this.props, 'pageContext.site.siteMetadata.color_scheme') + ' accent-' + _.get(this.props, 'pageContext.site.siteMetadata.accent_color')}>
