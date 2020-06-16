@@ -5,6 +5,7 @@ subtitle: Illustrated translations in Chinese, Tamil, Bengali, Thai, Burmese for
 date: 2020-06-04T05:51:54.032Z
 thumb_img_path: /images/radiology.png
 template: project
+seo_img_path: /images/opengraph_radiology.png
 ---
 <title>Radiology instructions - VisualAid</title>
 <meta name="title" content="Radiology instructions - VisualAid" />

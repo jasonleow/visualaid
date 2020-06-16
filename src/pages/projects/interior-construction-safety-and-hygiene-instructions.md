@@ -5,6 +5,7 @@ subtitle: Illustrated translations in Chinese, Tamil, Bengali, Hindi, Burmese,
 date: 2020-06-03T03:55:33.940Z
 thumb_img_path: /images/cn-tam-ben.png
 template: project
+seo_img_path: /images/opengraph_construction.png
 ---
 <title>Interior/Construction safety and hygiene instructions - VisualAid</title>
 <meta name="title" content="Interior/Construction safety and hygiene instructions - VisualAid" />
