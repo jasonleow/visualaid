@@ -8,7 +8,7 @@ import Footer from './Footer';
 
 export default class Body extends React.Component {
     render() {
-        const url = `${_.get(this.props, 'pageContext.site.siteMetadata.siteUrl')}${this.props.location.pathname}`;
+        const url = `https://raw.githubusercontent.com/jasonleow/visualaid/master/static/${_.get(this.props, 'pageContext.frontmatter.seo_img_path')}`;
             return (
                 <React.Fragment>
                     <Helmet>
@@ -24,7 +24,7 @@ export default class Body extends React.Component {
                         }
                         <meta name="og:url" content={url} />
                         <meta name="og:title" content={_.get(this.props, 'pageContext.frontmatter.title')} />
-                        <meta name="og:image" content={`${url}thumb_img_path`} />
+                        <meta name="og:image" content={url} />
                         {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
                           <meta name="og:description" content={_.get(this.props, 'pageContext.frontmatter.subtitle')} />
                         }
@@ -34,7 +34,7 @@ export default class Body extends React.Component {
                         <meta
                           name="twitter:image"
                           content={`${_.get(this.props, 'pageContext.site.siteMetadata.siteUrl')}${this.props.location.pathname}twitter-card.jpg`}
-                          content={`${url}thumb_img_path`} 
+                          content={url} 
                         />
                     </Helmet>
                     <div id="page" className={'site palette-' + _.get(this.props, 'pageContext.site.siteMetadata.color_scheme') + ' accent-' + _.get(this.props, 'pageContext.site.siteMetadata.accent_color')}>
