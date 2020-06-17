@@ -5,6 +5,7 @@ subtitle: Illustrated translations in Bengali for instructions to patients
 date: 2020-05-12T10:28:42.950Z
 thumb_img_path: /images/patient-s-instructions-for-covid-swabs-a4.png
 template: project
+seo_img_path: /images/patient-s-instructions-for-covid-swabs-a4.png
 ---
 These illustrated translations in Bengali are a set of instructions for patients when receiving COVID-19 swabs performed by healthcare professionals.  Download the entire poster as a pdf file.
 

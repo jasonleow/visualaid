@@ -6,6 +6,7 @@ date: 2020-06-05T13:58:27.710Z
 thumb_img_path: /images/more_illustrations.png
 content_img_path: ""
 template: project
+seo_img_path: /images/more_illustrations.png
 ---
 We think there is a lot of potential for illustrated translations in the healthcare setting, and the first two sets for Bengali migrant workers might just be the beginning! We responded to the need of the times (i.e. COVID-19), but we foresee that this can go beyond our current situation, to reach other languages, dialects and groups of patients. One possible group is the elderly.
 

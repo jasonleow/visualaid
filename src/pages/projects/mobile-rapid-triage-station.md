@@ -4,6 +4,7 @@ subtitle: Illustrated translations in Bengali for Mobile Rapid Triage Stations.
 date: 2020-05-07T08:54:03.886Z
 thumb_img_path: /images/visualaid_mobile-rapid-triage-station_a4-print.png
 template: project
+seo_img_path: /images/visualaid_mobile-rapid-triage-station_a4-print.png
 ---
 Illustrated translations in Bengali for medical teams manning Mobile Rapid Triage Stations at migrant worker dormitories. Download the entire poster as a pdf file. 
 

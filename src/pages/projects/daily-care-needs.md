@@ -7,6 +7,7 @@ date: 2020-05-04T16:00:00.000Z
 thumb_img_path: /images/visualaid_daily-needs_all.png
 content_img_path: ""
 template: project
+seo_img_path: /images/visualaid_daily-needs_all.png
 ---
 Healthcare folks, you can print this out for your migrant worker patients who speak Bengali. This helps them communicate their needs to you, and hopefully leads to better quality of care.
 

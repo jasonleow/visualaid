@@ -6,6 +6,7 @@ date: 2020-05-03T16:00:00.000Z
 thumb_img_path: /images/visualaid_screening-questions_ver2_all.png
 content_img_path: ""
 template: project
+seo_img_path: /images/visualaid_screening-questions_ver2_all.png
 ---
 \[Update 19 May 2020:] Based on feedback from nurses and doctors for more languages, our latest version now includes **Bengali, Tamil, Thai, Burmese, Hindi**. 
 

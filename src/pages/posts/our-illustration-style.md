@@ -5,6 +5,7 @@ date: 2020-05-16T08:24:30.920Z
 excerpt: Our illustration style is about enabling quick recognition and
   comprehension, not too different from say, traffic signs!
 template: post
+seo_img_path: ""
 ---
 **⚡️ TL;DR: The key take away for our illustration style is that our projects are executed/delivered quickly, and that the message conveyed needs to be easily and quickly understood. The illustrations doesn't need to be too refined or too consistent. All it requires is quick recognition and comprehension. By analogy, it's not too different from traffic signs!**  
 
