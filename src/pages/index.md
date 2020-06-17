@@ -73,4 +73,5 @@ menus:
     title: Home
     weight: 1
 template: home
+seo_img_path: visualaid_opengraphimage.png
 ---
