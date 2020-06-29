@@ -8,7 +8,7 @@ template: project
 ---
 Download all the illustrations in this collection as a pdf file for printing as a poster. For sharing over chat apps like Whatsapp and Telegram, you can download the single translation mobile images.  
 
-<a class="button" id="download-button" href="https://bit.ly/visualaid-surgicalmask-poster" target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download pdf</a> &nbsp;&nbsp;&nbsp; <a class="button" id="download-button" href="https://bit.ly/visualaid-surgicalmask-mobile" target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download mobile images</a>
+<!-- <a class="button" id="download-button" href="https://bit.ly/visualaid-surgicalmask-poster" target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download pdf</a> &nbsp;&nbsp;&nbsp; <a class="button" id="download-button" href="https://bit.ly/visualaid-surgicalmask-mobile" target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download mobile images</a> -->
 
 ![](/images/properly-wear-surgical-masks.png)
 
