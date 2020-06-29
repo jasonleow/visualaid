@@ -4,8 +4,8 @@ subtitle: Important things to note when using surgical masks, with illustrated
   translations in Chinese, Tamil, Bengali, Thai, Burmese.
 date: 2020-06-28T04:58:37.375Z
 thumb_img_path: /images/properly-wear-surgical-masks.png
-seo_img_path: /images/surgicalmask_opengraph.png
 template: project
+seo_img_path: /images/surgicalmask_opengraph.png
 ---
 Download all the illustrations in this collection as a pdf file for printing as a poster. For sharing over chat apps like Whatsapp and Telegram, you can download the single translation mobile images.  
 
