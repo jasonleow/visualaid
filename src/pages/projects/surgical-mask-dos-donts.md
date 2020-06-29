@@ -1,6 +1,6 @@
 ---
 title: Surgical mask do's & don'ts
-subtitle: Important things to note when using a surgical mask, with illustrated
+subtitle: Important things to note when using surgical masks, with illustrated
   translations in Chinese, Tamil, Bengali, Thai, Burmese.
 date: 2020-06-28T04:58:37.375Z
 thumb_img_path: /images/properly-wear-surgical-masks.png
