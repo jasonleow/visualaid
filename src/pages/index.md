@@ -26,7 +26,7 @@ sections:
     num_projects_displayed: 8
     section_id: latest-projects
     view_all_url: /tools
-    subtitle: We currently have 6 collections of illustrated translations -
+    subtitle: We currently have 7 collections of illustrated translations -
       screening/triage, daily care/needs, mobile rapid triage station, COVID
       swabs, construction safety and radiology instructions. All downloadable
       for free.
