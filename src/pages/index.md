@@ -32,7 +32,7 @@ sections:
       for free.
     title: Visual aid tools
     type: portfolioblock
-    layout_style: tiles
+    layout_style: mosaic
     component: PortfolioBlock
   - type: servicesblock
     title: Where to use
