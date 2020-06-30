@@ -28,8 +28,8 @@ sections:
     view_all_url: /tools
     subtitle: We currently have 7 collections of illustrated translations -
       screening/triage, daily care/needs, mobile rapid triage station, COVID
-      swabs, construction safety and radiology instructions. All downloadable
-      for free.
+      swabs, construction safety, radiology instructions, and surgical mask do's
+      and don'ts. All downloadable for free.
     title: Visual aid tools
     type: portfolioblock
     layout_style: mosaic
