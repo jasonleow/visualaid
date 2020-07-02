@@ -19,4 +19,6 @@ Download all the illustrations in this collection as a pdf file for printing as 
 
 <hr/>
 
-<img src="/images/English-how_to_wear.png" alt="English" width="200" height="200">&nbsp;<img src="/images/English-Dos_Donts.png" alt="English" width="200" height="200">&nbsp;<img src="/images/Mandarin-how_to_wear.png" alt="English" width="200" height="200">&nbsp;<img src="/images/Mandarin-Dos_Donts.png" alt="English" width="200" height="200">&nbsp;
+<img src="/images/English-how_to_wear.png" width="150" height="150">&nbsp;<img src="/images/English-Dos_Donts.png" width="150" height="150">&nbsp;<img src="/images/Mandarin-how_to_wear.png" width="150" height="150">&nbsp;<img src="/images/Mandarin-Dos_Donts.png" width="150" height="150">&nbsp;<img src="/images/Bengali-how_to_wear.png" width="150" height="150">&nbsp;<img src="/images/Bengali-Dos_Donts.png" width="150" height="150">&nbsp;<img src="/images/Tamil-how_to_wear.png" width="150" height="150">&nbsp;<img src="/images/Tamil-Dos_Donts.png" width="150" height="150">&nbsp;<img src="/images/Burmese-how_to_wear.png" width="150" height="150">&nbsp;<img src="/images/Burmese-Dos_Donts.png" width="150" height="150">&nbsp;<img src="/images/Thai-how_to_wear.png" width="150" height="150">&nbsp;<img src="/images/Thai-Dos_Donts.png" width="150" height="150">&nbsp;
+
+<hr/>
