@@ -3,7 +3,7 @@ title: Surgical mask do's & don'ts
 subtitle: Important things to note when using surgical masks, with illustrated
   translations in Chinese, Tamil, Bengali, Thai, Burmese.
 date: 2020-06-28T04:58:37.375Z
-thumb_img_path: /images/properly_wear_mask.png
+thumb_img_path: /images/proper_mask_wearing.png
 template: project
 seo_img_path: /images/surgicalmask_opengraph.png
 ---
@@ -11,7 +11,7 @@ Download all the illustrations in this collection as a pdf file to print as a po
 
 <a class="button" id="download-button" href="https://bit.ly/visualaid-surgicalmask-poster" target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download pdf</a> &nbsp;&nbsp;&nbsp; <a class="button" id="download-button" href="https://bit.ly/visualaid-surgicalmask-mobile" target="_blank" rel="noopener" style="margin-bottom: 0.75em;">Download mobile posters</a>
 
-![](/images/properly_wear_mask.png)
+![](/images/proper_mask_wearing.png)
 
 <hr/>
 
