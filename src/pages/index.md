@@ -23,7 +23,7 @@ sections:
 
       <hr/>
   - view_all_text: View all
-    num_projects_displayed: 8
+    num_projects_displayed: 10
     section_id: latest-projects
     view_all_url: /tools
     subtitle: We currently have 7 collections of illustrated translations -
