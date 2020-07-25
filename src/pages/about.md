@@ -29,7 +29,7 @@ VisualAid is a volunteer-driven project and our contributors come from a wide ra
 
 <br/>
 
-**✏️ Design team lead by** <a href="https://www.behance.net/michaelhuyouren" target="_blank" rel="noopener">**Michael**</a>
+**✏️ Design team led by** <a href="https://www.behance.net/michaelhuyouren" target="_blank" rel="noopener">**Michael**</a>
 
 <a href="https://rachelchong.cargo.site/" target="_blank" rel="noopener">Rachel</a>, <a href="http://heesuhui.com" target="_blank" rel="noopener">Su Hui</a>, <a href="https://instagram.com/christine.neo" target="_blank" rel="noopener">Christine</a>, <a href="https://instagram.com/launshae" target="_blank" rel="noopener">Dot</a>, Siti Zuraidah, <a href="https://www.linkedin.com/in/keithwongz/" target="_blank" rel="noopener">Keith</a>, <a href="https://www.linkedin.com/in/czhiliang/" target="_blank" rel="noopener">Zhi Liang</a>, <a href="https://www.linkedin.com/in/kok-fangling/" target="_blank" rel="noopener">Fang Ling</a>, <a href="https://www.linkedin.com/in/yun-zhen-choy-93a8837a/?originalSubdomain=sg" target="_blank" rel="noopener">Yun Zhen</a>, <a href="https://www.linkedin.com/in/amandarielle/?originalSubdomain=sg" target="_blank" rel="noopener">Amanda</a>, <a href="https://www.linkedin.com/in/yijingchoy/?originalSubdomain=sg" target="_blank" rel="noopener">Yi Jing</a>
 
