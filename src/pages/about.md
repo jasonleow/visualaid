@@ -25,7 +25,7 @@ VisualAid is a volunteer-driven project and our contributors come from a wide ra
 
 🏥 **Clinicians**
 
-<a href="https://www.linkedin.com/in/natliew/" target="_blank" rel="noopener">Nat</a>, <a href="https://www.instagram.com/lil_mem0ries/?igshid=6d1ayewmyip9" target="_blank" rel="noopener">Pei Kuan</a>, Melissa
+<a href="https://www.shawnlcl.com/" target="_blank" rel="noopener">Shawn Lee</a>, <a href="https://www.linkedin.com/in/natliew/" target="_blank" rel="noopener">Nat</a>, <a href="https://www.instagram.com/lil_mem0ries/?igshid=6d1ayewmyip9" target="_blank" rel="noopener">Pei Kuan</a>, Melissa
 
 <br/>
 
